@@ -1,0 +1,35 @@
+[var student={
+"name":"sivaperumal m",
+"age":"23",
+"year":"1999",
+"address":"1/254,Thailankadu,Puliyankurichi(po),
+Gangavalli(tk), Salem(dt),
+Pincode:636101"
+"Mobile number":"9677415216"
+"Email":"15sivaperumal@gmail.com"
+"Educational qualification":"Completed CCNA Course from CMSI class training institute at Ghandhipuram"
+"Completed Redhat Course from CMSI class training institute at Ghandhipuram"
+"Completed AWS Course from CMSI class training institute at Ghandhipuram"
+"Completed B.E Mechanical Engineering at SNS COLLEGE OF ENGINEERING with CGPA 7.5 (2017-2020)"
+"Completed Diploma Mechanical Engineering with 73% at MARUTHI POLYTECHNIC COLLEGE (2017)"
+"Completed SSLC with 53.5% at MARUTHI HIGHER SECONDARY SCHOOL (2014)"
+"Exprience":"EDP EXECUTIVE  Prisma Garments - (09/2020 – 012/2022)"
+"Manage and monitoring for Hardware and Software"
+"Maintenance for 100+ Systems , 100+ Cameras ,  Servers , ADC"
+"Configuration and installation  Routers , Switches , System , LAN , WAN"
+"Working on Networking"
+"Manage for 40+ stores All Over India"
+"SYSTEM ADMINISTRATOR"
+"CMSiclass training institute - (08/2019 – 09/2021)"
+"Perform Daily system administrator task make sure system performance availability"
+"Installation, Maintenance and tuning of server operating system management of user accounts"  
+"Maintenance & Support of servers,Hardware and software"
+"Provide operational support,storage environment for server"
+"Extra cirucular activities":"Completed “Defence Training” organized by SNS"
+"Defence Academy"
+"Participated in 10 km “Marathon” organized by MASTER FITNESS CLIB"
+"Technical skill":"Aws cloud","Linux","Networking","Administration"
+"Decleration":"I Sivaperumal M, hereby declare that all the information mentioned herein are true and correct to the best of my knowledge and beliefs"
+for(var a in student){
+console.log(student[a]);
+};
